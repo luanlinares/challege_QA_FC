@@ -3,92 +3,37 @@
 Funcionalidade: Acessar categorias do menu lateral
   Eu como usuário quero acessar os conteúdos por categoria do para poder visualizar posts específicos 
 
-  Cenario: Acessar a pagina anti-fraude - Categoria
+  Cenario: Acessar a pagina A Frente da Frente - Categoria
     Dado que estou visualizando qualquer área do blog
-    Quando clicar na caixa de seleção de categoria
-    E selecionar a categoria 'anti-fraude'
-    Então devo visualizar a pagina de notícias anti-fraude.
+    Quando selecionar a categoria 'A Frente da Frente'
+    Então devo visualizar a pagina de notícias A Frente da Frente.
 
-  Cenario: Acesso a pagina BACKGROUND CHECK - Categoria
+  Cenario: Acesso a pagina Artigos - Categoria
     Dado que estou visualizando qualquer área do blog
-    Quando clicar na caixa de seleção 'categoria'
-    E selecionar a categoria 'BACKGROUND CHECK'
-    Então devo visualizar a pagina de noticias BACKGROUND CHECK
+    Quando selecionar a categoria 'Artigos'
+    Então devo visualizar a pagina de Artigos
 
-  Cenario: Acesso a pagina BACKGROUND CHECKING - Categoria
+  Cenario: Acesso a pagina Dúvidas sobre o mercado de câmbio - Categoria
     Dado que estou visualizando qualquer área do blog
-    Quando clicar na caixa de seleção 'categoria'
-    E selecionar a opção 'BACKGROUND CHECKING'
-    Então devo visualizar a pagina de noticias BACKGROUND CHECKING
+    Quando selecionar a opção 'Dúvidas sobre o mercado de câmbio'
+    Então devo visualizar a pagina de noticias Dúvidas sobre o mercado de câmbio
 
-  Cenario: Acessar a pagina DUE DILIGENCE - Categoria
+  Cenario: Acessar a pagina Frente na Mídia - Categoria
     Dado que estou visualizando qualquer área do blog
-    Quando clicar na caixa de seleção 'categoria'
-    E selecionar a opção 'DUE DILIGENCE'
-    Então devo visualizar a pagina de noticias DUE DILIGENCE
-
-  Cenario: Acessar a pagina Economy - Categoria
-    Dado que estou visualizando qualquer área do blog
-    Quando clicar na caixa de seleção 'categoria'
-    E selecionar a opção 'Economy'
-    Então devo visualizar a pagina de noticias Economy
-
-  Cenario: Acessar a pagina fintech - Categoria
-    Dado que estou visualizando qualquer área do blog
-    Quando clicar na caixa de seleção 'categoria'
-    E selecionar a opção 'fintech'
-    Então devo visualizar a pagina de noticias fintech
-
-  Cenario: Acessar a página idcasts - Categoria
-    Dado que estou visualizando qualquer área do blog
-    Quando clicar na caixa de seleção 'categoria'
-    E selecionar a opção 'idcast'
-    Então devo visualizar a pagina idcast do blog
-
-  Cenario: Acessar a página IDTALKS - Categoria
-    Dado que estou visualizando qualquer área do blog
-    Quando clicar na caixa de seleção 'categoria'
-    E selecionar a opção 'IDTALKS'
-    Então devo visualizar a pagina IDTALKS do blog
-
-  Cenario: Acessar a pagina idwall news - Categoria
-    Dado que estou visualizando qualquer área do blog
-    Quando clicar na caixa de seleção 'categorias'
-    E selecionar a categoria 'idwall-news'
-    Então devo ser redirecionado a pagina de últimas noticias do blog
+    Quando selecionar a opção 'Frente na Mídia'
+    Então devo visualizar a pagina de noticias Frente na Mídia
 
   Cenario: Acessar a pagina Mercado - Categoria
     Dado que estou visualizando qualquer área do blog
-    Quando clicar na caixa de seleção 'categorias'
-    E selecionar a categoria 'Mercado'
-    Então devo ser redirecionado a pagina de noticias sobre Mercado do blog
+    Quando selecionar a opção 'Mercado'
+    Então devo visualizar a pagina de noticias Mercado
 
-  Cenario: Acessar a pagina Outros - Categoria
+  Cenario: Acessar a pagina O futuro do câmbio - Categoria
     Dado que estou visualizando qualquer área do blog
-    Quando clicar na caixa de seleção 'categoria'
-    E selecionar a opção 'Outros'
-    Então devo visualizar a pagina de noticias Outros
+    Quando selecionar a opção 'O futuro do câmbio'
+    Então devo visualizar a pagina de noticias O futuro do câmbio
 
-  Cenario: Acessar a pagina Segurança - Categoria
+  Cenario: Acessar a página Turismo - Categoria
     Dado que estou visualizando qualquer área do blog
-    Quando clicar na caixa de seleção 'categoria'
-    E selecionar a opção 'Smartphone'
-    Então devo visualizar a pagina de noticias Smartphone
-
-  Cenario: Acessar a pagina Smartphone - Categoria
-    Dado que estou visualizando qualquer área do blog
-    Quando clicar na caixa de seleção 'categoria'
-    E selecionar a opção 'Smartphone'
-    Então devo visualizar a pagina de noticias Smartphone
-
-  Cenario: Acessar a pagina Startup - Categoria
-    Dado que estou visualizando qualquer área do blog
-    Quando clicar na caixa de seleção 'categoria'
-    E selecionar a opção Startup
-    Então devo visualizar a pagina de noticias Startup
-
-  Cenario: Acessar a pagina Tech Update - Categoria
-    Dado que estou visualizando qualquer área do blog
-    Quando clicar na caixa de seleção 'categoria'
-    E selecionar 'Tech Update'
-    Então devo visualizar a pagina de noticias Tech Update
+    Quando selecionar a opção 'Turismo'
+    Então devo visualizar a pagina Turismo do blog

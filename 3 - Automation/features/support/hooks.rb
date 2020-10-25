@@ -1,5 +1,5 @@
 Before do
-    visit "https://blog.idwall.co/" 
+    visit "https://frentecorretora.com.br/blog/" 
     Capybara.page.driver.browser.manage.window.maximize
 end
 
