@@ -16,7 +16,7 @@
  Login: desafiofc@teste.com.br
  
  Senha: Des@afio2020
-              
+               
 Após logar, basta clicar no projeto **Blog Frente Corretora** e no menu lateral selecionar a opção **Scenarios**. Cada pasta possui um conjunto de cenários desenvolvidos para validação. 
 
 
