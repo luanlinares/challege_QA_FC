@@ -24,11 +24,10 @@ Após logar, basta clicar no projeto **Blog Frente Corretora** e no menu lateral
   Os testes foram executados manualmente, utilizando os browsers Google Chrome e Firefox, e além de estarem armazenados na planilha excel na pasta **2 - Execution**, também podem ser visualizados no menu lateral **Test runs** da ferramenta Studio Cucumber.
 
    ### 2.1 - Execução de Testes - Arquivo Excel
-   O arquivo excel 4 planilhas que contemplam o seguinte conteúdo. 
+   O arquivo excel 2 planilhas que contemplam o seguinte conteúdo. 
    
    - Gráfico demostrativo do resultado da execução dos testes;
-   - Cenários que falharam com seus apontamentos;
-   - Cenários que passaram com apontamentos e comentários;
+   - Descrição dos cenários;
    - Sessão de dicas de melhoria. 
    
 
