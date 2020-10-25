@@ -1,6 +1,6 @@
 page = Search.new
 
-Quando("acesso o blog da Idwall") do
+Quando("acesso o blog da Frente Corretora") do
     page.access_page
 end
   
